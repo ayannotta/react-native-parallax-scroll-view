@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Animated, Dimensions, View } from 'react-native'
-import { ViewPropTypes } from 'depricated-react-native-prop-types'
+import { ViewPropTypes } from 'deprecated-react-native-prop-types'
 
 const styles = require('./styles')
 
